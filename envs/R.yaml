@@ -1,0 +1,15 @@
+name: R
+channels:
+  - conda-forge
+  - defaults 
+dependencies:
+  - r-base=4.2.0
+  - r-dplyr=1.0.9
+  - r-data.table=1.14.2
+  - r-rcompanion=2.4.34
+  - readxl=1.4.0 
+  - r-r.utils
+  - r-argparse
+
+
+

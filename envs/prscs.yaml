@@ -1,0 +1,8 @@
+name: prs_cs
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - h5py=3.9.0
+  - scipy=1.11.2
+  - prscs=1.1.0
